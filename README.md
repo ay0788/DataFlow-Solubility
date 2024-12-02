@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://www.google.com/imgres?q=Solubility&imgurl=https%3A%2F%2Fwww.thoughtco.com%2Fthmb%2F757q0A93kkeV7AAh6e7sDcmWiy8%3D%2F1500x0%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Faspirin-paracetamol-pill-splashing-into-glass-of-water-163639094-58ef75bc5f9b582c4dff78ab.jpg&imgrefurl=https%3A%2F%2Fwww.thoughtco.com%2Fdefinition-of-solubility-604649&docid=xLIDOkKu9kFyZM&tbnid=DkASv2Nq9SKLtM&vet=1&w=1500&h=1000&hcb=2&ved=2ahUKEwiO9e3XkIqKAxUGKvsDHfxCOewQM3oECFwQAA"  width="150">
-</p>
 
 # 🧪🔬 DataFlow Solubility Analysis
 
